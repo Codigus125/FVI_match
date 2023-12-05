@@ -1,28 +1,28 @@
 npm install concurrently --save-dev
-npm install @emailjs/browser
-npm install apollo-server-express
-npm install bcrypt
-npm install body-parser
-npm install cors
-npm install express
-npm install jsonwebtoken
-npm install mongoose
-npm install nodemailer
-npm install nodemon
-npm install @apollo/client
-npm install @emailjs/browser
-npm install @fullcalendar/react
-npm install @testing-library/jest-dom
-npm install @testing-library/react
-npm install @testing-library/user-event
-npm install bootstrap
-npm install fullcalendar
-npm install history
-npm install js-cookie
-npm install react
-npm install react-bootstrap
-npm install react-dom
-npm install react-router-dom
-npm install react-scripts
-npm install react-spring
-npm install web-vitals
+@emailjs/browser
+apollo-server-express
+bcrypt
+body-parser
+cors
+express
+jsonwebtoken
+mongoose
+nodemailer
+nodemon
+@apollo/client
+@emailjs/browser
+@fullcalendar/react
+@testing-library/jest-dom
+@testing-library/react
+@testing-library/user-event
+bootstrap
+fullcalendar
+history
+js-cookie
+react
+react-bootstrap
+react-dom
+react-router-dom
+react-scripts
+react-spring
+web-vitals
