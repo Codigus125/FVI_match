@@ -1,4 +1,4 @@
-npm install concurrently --save-dev
+concurrently --save-dev
 @emailjs/browser
 apollo-server-express
 bcrypt
