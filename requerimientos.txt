@@ -1,4 +1,3 @@
-concurrently --save-dev
 @emailjs/browser
 apollo-server-express
 bcrypt
