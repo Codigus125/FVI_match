@@ -1,0 +1,7 @@
+deploy_staging:
+  stage: deploy
+  script:
+    - echo "Deploy to staging server"
+  environment:
+    name: FVI
+    url: http://fvimatch/
